@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Dataset
+data/
+
+# Model checkpoints
+checkpoints/
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
